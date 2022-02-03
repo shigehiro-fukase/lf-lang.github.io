@@ -1,5 +1,5 @@
 {
-    "componentChunkName": "component---src-pages-publications-and-presentations-tsx",
-    "path": "/publications-and-presentations/",
-    "result": {"pageContext":{"slug":"/publications-and-presentations/","langKey":"en"}},
+    "componentChunkName": "component---src-templates-pages-publications-and-presentations-tsx",
+    "path": "/publications-and-presentations",
+    "result": {"pageContext":{"lang":"en"}},
     "staticQueryHashes": []}
