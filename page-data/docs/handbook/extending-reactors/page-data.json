@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-documentation-tsx",
+    "path": "/docs/handbook/extending-reactors",
+    "result": {"data":{"markdownRemark":{"id":"da8a134b-021e-56d5-8493-7f0d2bc12fa6","excerpt":"$page-showing-target$","html":"<p>$page-showing-target$</p>","headings":[],"frontmatter":{"permalink":"/docs/handbook/extending-reactors","title":"Extending Reactors","oneline":"Extending reactors in Lingua Franca.","preamble":""}},"prev":{"childMarkdownRemark":{"frontmatter":{"title":"Reactions and Methods","oneline":"Reactions and methods in Lingua Franca.","permalink":"/docs/handbook/reactions-and-methods"}}},"next":{"childMarkdownRemark":{"frontmatter":{"title":"Actions","oneline":"Actions in Lingua Franca.","permalink":"/docs/handbook/actions"}}}},"pageContext":{"id":"1-extending-reactors","slug":"/docs/handbook/extending-reactors","repoPath":"/packages/documentation/copy/en/topics/Extending Reactors.md","previousID":"2b545b73-e864-5e76-b7ca-cca7461a40a3","nextID":"ccec02d6-9965-556a-a165-04f39c65033d","lang":"en","modifiedTime":"2022-03-30T14:09:54.043Z"}},
+    "staticQueryHashes": []}
